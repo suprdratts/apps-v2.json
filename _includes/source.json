@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260512.1041+d292edff",
-              "date": "2026-05-12T04:44:44Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260512.1041+d292edff\"\n  - revision: \"d292edff\"\n  - timestamp: \"Tue May 12 04:44:44 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix: Sharing ipa files to SideStore\n\n#### Full Changelog: [a0d3c5ed...d292edff](https://github.com/SideStore/SideStore/compare/a0d3c5ed4a3be4e873ce98ff95e25f35a6a1c11e...d292edffd1264918e6a83d3d2a0fb8cfde80e3ca)\n",
+              "version": "0.6.4-20260526.1056+8485efe6",
+              "date": "2026-05-26T16:05:05Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260526.1056+8485efe6\"\n  - revision: \"8485efe6\"\n  - timestamp: \"Tue May 26 16:05:05 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix: Update AltSign to fix Windows IPA permission errors (#447) (#1315)\n\n#### Full Changelog: [d292edff...8485efe6](https://github.com/SideStore/SideStore/compare/d292edffd1264918e6a83d3d2a0fb8cfde80e3ca...8485efe6c2f6f0fc1eb31cddc27c2abb4aa22d10)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26996931,
-              "sha256": "725397a3cb84d1324f2af187ae6927ee7960643998e8db885819d9257e99d22a"
+              "size": 26996527,
+              "sha256": "66169357f9098b02c966abdc7c04f81c64415ff5394200052b2cea4ff1c82cea"
             }
           ]
         },
